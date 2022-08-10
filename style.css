@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+.login_div1,.login_div2{
+background-color: white;
+padding: 10px;
+border-radius: 15px;
+float: none;
+margin-bottom: 30px;
+}
+#player2_name_input,#player1_name_input{
+    display: inline-block;
+    margin-left: 10px;
+}
