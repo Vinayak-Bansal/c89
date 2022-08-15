@@ -12,3 +12,23 @@ margin-bottom: 30px;
     display: inline-block;
     margin-left: 10px;
 }
+h1{
+   color: white;
+   font-weight: 100;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#word{
+padding: 10px;
+margin-bottom: 50px;
+}
+button{
+margin-bottom: 50px;
+}
